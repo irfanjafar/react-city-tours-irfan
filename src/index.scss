@@ -1,7 +1,7 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
 $mainblack: #000;
@@ -10,7 +10,7 @@ $mainwhite: #fff;
 $maingrey: #ececec;
 
 body {
-  font-family: 'Roboto', 'Open Sans', sans-serif;
-  background: $maingreen;
-  color: $mainblack;
+	font-family: "Roboto", "Open Sans", sans-serif;
+	background: $mainwhite;
+	color: $mainblack;
 }
